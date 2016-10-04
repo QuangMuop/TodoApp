@@ -1,0 +1,7 @@
+#Mon Oct 03 18:10:59 ICT 2016
+base.0=D\:\\Android\\AndroidStudioProjects\\SimpleTodo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fdc0266d9cc0b3ea372d88f556a31443badfa470
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android\\AndroidStudioProjects\\SimpleTodo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_34657bd25f061099bc046cedc57951f54daab475\\classes.dex
+base.1=D\:\\Android\\AndroidStudioProjects\\SimpleTodo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_34657bd25f061099bc046cedc57951f54daab475
+file.0=D\:\\Android\\AndroidStudioProjects\\SimpleTodo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fdc0266d9cc0b3ea372d88f556a31443badfa470\\classes.dex

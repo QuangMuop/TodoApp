@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\SimpleTodo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="70d159192662c6afc9a0dfb1cc9c21636080fdb8">
+        <dex dex="D:\Android\AndroidStudioProjects\SimpleTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_34657bd25f061099bc046cedc57951f54daab475\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Android\AndroidStudioProjects\SimpleTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_6c2a284fdd61d0d8ac24aa3991d9cfbc35ef85c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\SimpleTodo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd7155e6b05341e1ef0ca6a6f8f21584ca7646ce">
+        <dex dex="D:\Android\AndroidStudioProjects\SimpleTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fdc0266d9cc0b3ea372d88f556a31443badfa470\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\Android\AndroidStudioProjects\SimpleTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_ce5cca4d81229990d413afed08be276e59e0304a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Android\AndroidStudioProjects\SimpleTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_445e35451c2b2b1c50fd5ee13cf6c5886dd61982\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Android\AndroidStudioProjects\SimpleTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_e1d482cbb845203022867e7923887189da71a204\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Android\AndroidStudioProjects\SimpleTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_b8565ca97d131459509a6d0b0e3211d5a50c96d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Android\AndroidStudioProjects\SimpleTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_7ce9530bde99798d40f8a585f2b2653a8a1fe066\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\SimpleTodo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Android\AndroidStudioProjects\SimpleTodo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_3d81fd7a2773d83a303d14671f460dd24a57ca5b\classes.dex" />
+    </item>
+
+</items>
